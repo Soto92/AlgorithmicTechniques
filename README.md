@@ -140,3 +140,7 @@ Feel free to contribute to this repository by adding new algorithms or improving
 This repository is licensed under the MIT License.
 
 Happy coding!
+
+## Author
+
+Mauricio Soto
